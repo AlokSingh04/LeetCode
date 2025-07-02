@@ -60,7 +60,6 @@ public:
             if(!p)  return;
             p = p->next;
         }
-
         if(!p)  return;
 
         newNode->next = p->next;
@@ -82,7 +81,6 @@ public:
             if (!p || !p->next) return;
             p = p->next;
         }
-
         if (!p->next) return;
 
         Node* temp = p->next;
