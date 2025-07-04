@@ -1,29 +1,19 @@
 class Solution {
-private:
-    void backtrack(int open_count,int close_count,int n,vector<string>& res,string stack){
-        if(close_count == n && open_count == n){
-            res.push_back(stack);
-            return;
-        }
+public:
+    void backtrack(int open_count,int close_count,int n,vector<string>& res,string temp){
+        if(close_count == n && open_count == n)  res.push_back(temp);
 
-        if(open_count < n){
-            stack += '(';
-            backtrack(open_count+1,close_count,n,res,stack);
-            stack.pop_back();
-        }
+        if(open_count < n)  backtrack(open_count+1,close_count,n,res,temp+'(');
 
-        if(close_count < open_count){
-            stack += ')';
-            backtrack(open_count,close_count+1,n,res,stack);
-            stack.pop_back();
-        }
+        if(close_count < open_count)  backtrack(open_count,close_count+1,n,res,temp+')');
     }
 
-public:
     vector<string> generateParenthesis(int n) {
         vector<string> res;
-        string stack;
-        backtrack(0,0,n,res,stack);
+        string temp;
+
+        backtrack(0,0,n,res,temp);
+        
         return res;
     }
 };
