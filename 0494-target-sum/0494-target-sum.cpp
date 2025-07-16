@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n;i++){
             sum += nums[i];
         }
-        if(target > sum || target < -sum || (target + sum) % 2 != 0) {
+        if(abs(target) > sum || (target + sum) % 2 != 0) {
             return 0;
         }
 
