@@ -7,7 +7,7 @@ public:
         }
 
         vector<int> indegree(numCourses);
-        for(int i=0;i<adj.size();i++){
+        for(int i=0;i<numCourses;i++){
             for(int j=0;j<adj[i].size();j++){
                 indegree[adj[i][j]]++;
             }
