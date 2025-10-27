@@ -9,9 +9,8 @@ public:
 
         int ans = 0, temp = 0;
         for(int i : N){
-            if(i!=0 && temp==0){
-                temp = i;
-            } else if(i!=0) {
+            if(i!=0 && temp==0) temp = i;
+            else if(i!=0) {
                 ans += temp*i;
                 temp = i;
             }
