@@ -42,6 +42,6 @@ public:
             for(int j=i*i; j<=n; j+=i*i) arr[j] = false;
         }
 
-        return count(arr.begin()+2,arr.end(), true);
+        return count(arr.begin(),arr.end(), true);
     }
 };
