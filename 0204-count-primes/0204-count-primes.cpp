@@ -21,6 +21,8 @@ public:
 
     int countPrimes(int n) {
         if(n<=2) return 0;
+        n--;
+
         vector<bool> arr(n+1,false);
         arr[2]=arr[3]=true;
 
