@@ -24,7 +24,6 @@ public:
 };
 
 auto init1 = atexit([](){ofstream("display_runtime.txt")<<"0";});
-auto init2 = atexit([](){ofstream("display_memory.txt")<<"0";});
 
 /**
  * Your MedianFinder object will be instantiated and called as such:
