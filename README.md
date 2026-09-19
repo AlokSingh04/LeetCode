@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AlokSingh04/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AlokSingh04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/AlokSingh04/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [1046-last-stone-weight](https://github.com/AlokSingh04/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlokSingh04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0229-majority-element-ii](https://github.com/AlokSingh04/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AlokSingh04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
 |  |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AlokSingh04/LeetCode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/AlokSingh04/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/AlokSingh04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
@@ -49,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AlokSingh04/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AlokSingh04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlokSingh04/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
@@ -79,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlokSingh04/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AlokSingh04/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
