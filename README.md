@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/AlokSingh04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/AlokSingh04/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [1046-last-stone-weight](https://github.com/AlokSingh04/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlokSingh04/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AlokSingh04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlokSingh04/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
 | ------- |
@@ -73,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlokSingh04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlokSingh04/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
